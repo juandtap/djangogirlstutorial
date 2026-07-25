@@ -4,7 +4,7 @@
 ```
 pa_autoconfigure_django.py --python=3.12 https://github.com/juandtap/djangogirlstutorial
 ```
-Nota. En el ambiente de pythonanywhere trabajan con la version 3.12 .13 si se usa otras antiguas o mas recientes lanza error en la consola
+Nota. En el ambiente de pythonanywhere trabajan con la version 3.12 o 3.13 si se usa otras antiguas o mas recientes lanza error en la consola
 
 # 🔑 Guía de Configuración e Inicio con SSH para GitHub
 
