@@ -1,4 +1,11 @@
 
+# Despliegue en Pythonanywhere.com
+
+```
+pa_autoconfigure_django.py --python=3.12 https://github.com/juandtap/djangogirlstutorial
+```
+Nota. En el ambiente de pythonanywhere trabajan con la version 3.12 .13 si se usa otras antiguas o mas recientes lanza error en la consola
+
 # 🔑 Guía de Configuración e Inicio con SSH para GitHub
 
 Este repositorio incluye una guía rápida para configurar tu autenticación mediante **claves SSH** en GitHub. Usar SSH en lugar de HTTPS te permite hacer `git push` y `git pull` de forma segura sin tener que ingresar tu usuario y token/contraseña en cada ocasión.
