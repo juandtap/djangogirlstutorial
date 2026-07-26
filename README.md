@@ -14,7 +14,7 @@ Nota. No olvides colocarte dentro de la terminal en el directorio donde quieres 
 ### 2. Descargar el zip
 Si tienes problemas con autenticarte en github puedes descargar el repositorio como un archivo zip. Dale clic al boton de *Descargar zip* como se muestra en la imagen
 
-![Descargar proyecto como archivo ZIP](djangogirlstutorialimg1.png)
+![Descargar proyecto como archivo ZIP](djangotut1.png)
 
 ## Ejecutar el codigo
 
